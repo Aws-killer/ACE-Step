@@ -1,7 +1,7 @@
 import random
 import time
 import os
-import re
+import re,gc
 
 import torch
 import torch.nn as nn
